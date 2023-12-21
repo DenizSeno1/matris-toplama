@@ -1,0 +1,3 @@
+C:/Users/deniz/CLionProjects/Matris toplama/cmake-build-debug/CMakeFiles/5_30aakadar.dir
+C:/Users/deniz/CLionProjects/Matris toplama/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/deniz/CLionProjects/Matris toplama/cmake-build-debug/CMakeFiles/rebuild_cache.dir
